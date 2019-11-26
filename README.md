@@ -7,4 +7,4 @@ Endeavor is a third-person shooter where the player destroys enemies at various 
 Development
 =====================
 
-The game is at an early stage of development and many of the mechanics are not finished yet or they do not work as they should
+I have been studying Unreal Engine 4 for a month and this game is the result of what I learned. This game is still at an early stage of development and many of the mechanics are not yet finished or work not as it should. In the future I plan to add more levels and correct game mechanics.
