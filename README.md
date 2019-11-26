@@ -2,7 +2,7 @@
 Endeavour
 =====================
 
-Endeavor is a third-person shooter where the player destroys enemies at various abstract levels. At the moment, the game has only Russian language
+Endeavor is a third-person shooter where the player destroys enemies at various abstract levels. At the moment, the game has only Russian language.
 
 Development
 =====================
