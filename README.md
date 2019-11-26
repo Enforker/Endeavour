@@ -3,6 +3,7 @@ Endeavour
 =====================
 
 Endeavor is a third-person shooter where the player destroys enemies at various abstract levels.
+
 Development
 =====================
 
