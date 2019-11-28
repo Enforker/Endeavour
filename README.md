@@ -20,6 +20,7 @@ Screenshots
 =====================
 
 ![alt text](https://github.com/Enforker/Endeavour/blob/master/Screenshots/1.png)
+![alt text](https://github.com/Enforker/Endeavour/blob/master/Screenshots/2.jpg)
 
 Contacts
 =====================
