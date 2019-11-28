@@ -31,6 +31,8 @@ Screenshots
 
 ![alt text](https://github.com/Enforker/Endeavour/blob/master/Screenshots/6.jpg)
 
+![alt text](https://github.com/Enforker/Endeavour/blob/master/Screenshots/7.jpg)
+
 Contacts
 =====================
 
