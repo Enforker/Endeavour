@@ -9,6 +9,11 @@ Development
 
 I have been studying Unreal Engine 4 for a month and this game is the result of what I learned.
 
+Contacts
+=====================
+
+* [Artstation](https://www.artstation.com/enforker)
+
 Screenshots
 =====================
 
@@ -25,8 +30,3 @@ Screenshots
 ![alt text](https://github.com/Enforker/Endeavour/blob/master/Screenshots/6.jpg)
 
 ![alt text](https://github.com/Enforker/Endeavour/blob/master/Screenshots/7.jpg)
-
-Contacts
-=====================
-
-* [Artstation](https://www.artstation.com/enforker)
